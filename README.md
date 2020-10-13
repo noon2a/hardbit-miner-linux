@@ -7,8 +7,14 @@ HardBit Launcher Miner XMRig and Nanopool for mine token HBT/algo RandomX(cpu) a
 ## Download
 * **[Binary releases](https://github.com/xmrig/xmrig/releases)**
 
-## Usage
-The preferred way to configure the miner is the [JSON config file](src/config.json) as it is more flexible and human friendly. The [command line interface](https://xmrig.com/docs/miner/command-line-options) does not cover all features, such as mining profiles for different algorithms. Important options can be changed during runtime without miner restart by editing the config file or executing API calls.
+## How to start
+sudo apt-get update
+sudo apt-get install perl libwww-perl -y
+sudo chmod +x cpu-start.sh
+sudo chmod +x gpu-start.sh
+./cpu-start.sh or ./gpu-start.sh
+*Your login@mail in HardBit Platform
+*And confirm that this is your wallet where the funds will go
 
 ## Contacts
 * admin@hardbit.space
