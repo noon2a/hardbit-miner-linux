@@ -8,13 +8,13 @@ HardBit Launcher Miner XMRig and Nanopool for mine token HBT/algo RandomX(cpu) a
 * **[Binary releases](https://github.com/xmrig/xmrig/releases)**
 
 ## How to start
-sudo apt-get update
-sudo apt-get install perl libwww-perl -y
-sudo chmod +x cpu-start.sh
-sudo chmod +x gpu-start.sh
-./cpu-start.sh or ./gpu-start.sh
-*Your login@mail in HardBit Platform
-*And confirm that this is your wallet where the funds will go
+- sudo apt-get update
+- sudo apt-get install perl libwww-perl -y
+- sudo chmod +x cpu-start.sh
+- sudo chmod +x gpu-start.sh
+- ./cpu-start.sh or ./gpu-start.sh
+- *Your login@mail in HardBit Platform
+- *And confirm that this is your wallet where the funds will go
 
 ## Contacts
 * admin@hardbit.space
