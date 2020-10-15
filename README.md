@@ -1,5 +1,6 @@
-# launcher-linux
-HardBit Launcher Miner XMRig and Nanopool for mine token HBT/algo RandomX(cpu) and Ether(gpu)
+# hardbit-miner-linux
+HardBit Miner XMRig and Nanopool for mine token HBT/algo RandomX(cpu) and Ether(gpu)
+
 
 ## Mining backends
 - **CPU** XMRIG-x64/ARMv7/ARMv8
