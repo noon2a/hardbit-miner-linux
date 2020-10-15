@@ -1,6 +1,6 @@
 # hardbit-miner-linux
 HardBit Miner XMRig and Nanopool for mine token HBT/algo RandomX(cpu) and Ether(gpu)
-<p align="center">
+<p>
   <img src="https://github.com/hardbitspace/hardbit-miner-linux/blob/main/8797d99f-22e2-4892-b34f-8278d48bdf5a.jpg" width="350" title="">
 </p>
 
